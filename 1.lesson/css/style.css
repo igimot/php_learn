@@ -1,0 +1,68 @@
+body{
+    font-family: "Segoe UI Light";
+}
+.layout{
+    position: relative;
+}
+.layout1{
+    margin: 0 25em 0 30em;
+}
+h1{
+    font-size: 35px}
+.layout2{
+    margin-left: 10px;
+
+}
+.layout3{
+    font-size: 30px;
+    margin: 0 25px 0 50px ;
+}
+.layout4{
+    margin: -30px 25px 50px 250px ;
+    position: inherit;
+}
+.layout4 h3{
+    margin-top: -2%;
+}
+.layout4 p{
+    margin-bottom: -1em;
+}
+.layout4 i{
+    margin-bottom: -1em;
+}
+.button {
+    display:inline-block;
+    font-size:18px;
+    line-height:34px;
+    color:#fff;
+    padding:0px 18px;
+    text-transform:uppercase;
+    background:#0095e6;
+    font-weight:normal;
+    font-family:'arial', sans-serif;
+    text-decoration:none;
+    margin-left: 250px;
+}
+.button:hover {
+    color:#fff;
+    background:#ff8200;
+    text-decoration:none;
+}
+.button2 {
+    display:inline-block;
+    font-size:18px;
+    line-height:34px;
+    color:#fff;
+    padding:0px 18px;
+    text-transform:uppercase;
+    background:#0095e6;
+    font-weight:normal;
+    font-family:'arial', sans-serif;
+    text-decoration:none;
+    margin-left: 0px;
+}
+.button2:hover {
+    color:#fff;
+    background:#ff8200;
+    text-decoration:none;
+}
