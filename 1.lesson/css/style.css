@@ -59,7 +59,7 @@ h1{
     font-weight:normal;
     font-family:'arial', sans-serif;
     text-decoration:none;
-    margin-left: 0px;
+    margin: 20px 20px 0 0px;;
 }
 .button2:hover {
     color:#fff;
