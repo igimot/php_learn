@@ -1,6 +1,26 @@
-body{
+body {
     font-family: "Segoe UI Light";
-    margin-left: 200px;
+    background: url(../image/bk-fon.png);
+    background-size: cover;
+}
+nav{
+    margin-left: calc(100% - 65%);
+}
+header {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+header .block {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
 
 }
 .layout{
@@ -11,6 +31,13 @@ body{
 }
 h1{
     font-size: 35px}
+
+#d-center{
+    position: relative;
+    left: 20px;
+    top: 10px;
+    /*margin-right: calc(100% - 65%);*/
+}
 .layout2{
     margin-left: 10px;
 
@@ -67,4 +94,35 @@ h1{
     color:#fff;
     background:#ff8200;
     text-decoration:none;
+}
+.style-menu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+}
+.style-menu li {
+    float: left;
+    font-size: 18px;
+    position: relative;
+    z-index: 1;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+   /* border-right: 1px solid rgb(221, 221, 221);*/
+    font-weight: normal;
+}
+.style-menu li:hover{
+    border: 1px solid #b7b7b7;
+}
+.style-menu li a{
+    color: dimgrey;
+    padding: 15px 18px 15px 18px;
+    font-style: normal;
+    text-decoration: none;
+
+    line-height: 3em;
+}
+.style-menu .current {
+    border: 1px solid #f9e15c !important;
+
 }
