@@ -2,9 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Резюме ;)</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script>
+        function anichange(objName) {
+            if ($(objName).css('display') == 'none') {
+                $(objName).animate({height: 'show'}, 400);
+            }
+            else {
+                $(objName).animate({height: 'hide'}, 200);
+            }
+        }
+    </script>
 </head>
-<body>
+<body id="bk">
+<nav>
+    <div class="position-menu">
+        <ul class="style-menu">
+            <li class="current"><a href="#">Главная</a></li>
+            <li><a href="aboutme.html">Обо мне</a></li>
+            <li><a href="experience.html">Мой опыт</a></li>
+            <li><a href="contact.html">Мои контакты</a></li>
+        </ul>
+    </div>
+</nav>
+
+<header>
+    <div class="block">
+        <h1>Oleg Chulanov</h1>
+        <h3>IT-outsourcing MAN</h3>
+    </div>
+</header>
+
 
 </body>
 </html>
