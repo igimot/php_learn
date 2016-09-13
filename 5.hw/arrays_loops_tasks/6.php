@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Задачи по массивам и циклам</title>
+    <title>6. Задачи по массивам и циклам</title>
 </head>
 
 <?php
@@ -24,9 +24,11 @@ $arr = array(
     'blue'=>'голубой');
 $en = array();
 $ru = array();
-
 foreach ($arr as $key => $value){
     array_push($en, $key);
     array_push($ru, $value);
 }
+var_dump($en);
+echo '<br>';
+var_dump($ru);
 
