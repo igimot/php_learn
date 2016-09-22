@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.hw/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+            <state relative-caret-position="918">
+              <caret line="54" column="71" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/10.php">
+      <file leaf-file-name="21.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/21.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="e#6#86#0#PHP" expanded="true" />
               </folding>
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/9.php">
+      <file leaf-file-name="20.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="e#6#86#0#PHP" expanded="true" />
               </folding>
@@ -55,85 +55,88 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/8.php">
+      <file leaf-file-name="19.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/19.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
+                <element signature="e#193#273#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/7.php">
+      <file leaf-file-name="18.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/18.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="442">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#180#260#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/6.php">
+      <file leaf-file-name="17.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/17.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="e#166#246#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/14.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#104#184#0#PHP" expanded="true" />
+                <marker date="1473776851851" expanded="true" signature="431:667" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.hw/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+              <folding>
+                <element signature="e#2300#2304#0#HTML" expanded="true" />
+                <element signature="e#2305#2309#0#HTML" expanded="true" />
+                <element signature="e#4380#4386#0#HTML" expanded="true" />
+                <element signature="e#4500#4580#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/13.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="46" />
               <folding>
-                <element signature="e#129#209#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/5.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <element signature="e#129#209#0#PHP" expanded="true" />
+                <element signature="e#320#400#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HW_0.3/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#128#208#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/3.php">
+        <entry file="file://$PROJECT_DIR$/3.0.lesson/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <element signature="e#128#208#0#PHP" expanded="true" />
-                <marker date="1473446056575" expanded="true" signature="31:583" ph="..." />
-              </folding>
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,9 +185,21 @@
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/6.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/7.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/8.php" />
-        <option value="$PROJECT_DIR$/5.hw/index.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/9.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/10.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/11.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/12.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/13.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/15.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/16.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/17.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/19.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/18.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/20.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/21.php" />
+        <option value="$PROJECT_DIR$/5.hw/index.php" />
+        <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/14.php" />
+        <option value="$PROJECT_DIR$/6.hw/index.php" />
       </list>
     </option>
   </component>
@@ -198,8 +213,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -268,25 +283,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5.hw" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5.hw" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arrays_loops_tasks" />
+              <option name="myItemId" value="6.hw" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,10 +301,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_learn" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.hw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,17 +396,19 @@
       <workItem from="1473065725152" duration="15924000" />
       <workItem from="1473322056061" duration="12950000" />
       <workItem from="1473445247536" duration="5496000" />
+      <workItem from="1473745682004" duration="18427000" />
+      <workItem from="1474530737848" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59835000" />
+    <option name="totallyTimeSpent" value="78329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18594436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -430,43 +443,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/contact.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/1.lesson/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="141" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/experience.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/contact.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/1.lesson/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="141" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/experience.html" />
-    <entry file="file://$PROJECT_DIR$/2.0.lesson/contact.html" />
     <entry file="file://$PROJECT_DIR$/2.0.lesson/css/style.css" />
     <entry file="file://$PROJECT_DIR$/1.lesson/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -543,14 +519,13 @@
     <entry file="file://$PROJECT_DIR$/test/index.php" />
     <entry file="file://$PROJECT_DIR$/1.hw/aboutme.html" />
     <entry file="file://$PROJECT_DIR$/1.hw/index.php" />
-    <entry file="file://$PROJECT_DIR$/3.0.lesson/index.php" />
     <entry file="file://$PROJECT_DIR$/test/menu.php" />
     <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -560,18 +535,7 @@
         <state relative-caret-position="289">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#128#208#0#PHP" expanded="true" />
-            <marker date="1473446056575" expanded="true" signature="31:583" ph="..." />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -581,7 +545,7 @@
         <state relative-caret-position="442">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
-            <element signature="e#128#208#0#PHP" expanded="true" />
+            <element signature="e#128#208#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -591,7 +555,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
           <folding>
-            <element signature="e#129#209#0#PHP" expanded="true" />
+            <element signature="e#129#209#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -601,7 +565,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#129#209#0#PHP" expanded="true" />
+            <element signature="e#129#209#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -614,22 +578,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW_0.3/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/8.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -639,15 +593,149 @@
         <state relative-caret-position="136">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW_0.3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.hw/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#129#208#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/16.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/15.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="e#320#400#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.0.lesson/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/17.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="e#166#246#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/19.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#193#273#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/18.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#260#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/20.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/21.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="e#6#86#0#PHP" expanded="true" />
           </folding>
@@ -656,9 +744,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.hw/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+        <state relative-caret-position="918">
+          <caret line="54" column="71" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/14.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#104#184#0#PHP" expanded="true" />
+            <marker date="1473776851851" expanded="true" signature="431:667" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.hw/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding>
+            <element signature="e#2300#2304#0#HTML" expanded="true" />
+            <element signature="e#2305#2309#0#HTML" expanded="true" />
+            <element signature="e#4380#4386#0#HTML" expanded="true" />
+            <element signature="e#4500#4580#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
