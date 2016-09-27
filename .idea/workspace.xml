@@ -22,6 +22,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.hw/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5.hw/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.hw/functions_forms_tasks/3/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -33,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="func.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="func.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.hw/functions_forms_tasks/3/func.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -138,7 +160,6 @@
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/10.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/2.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/6.php" />
-        <option value="$PROJECT_DIR$/5.hw/index.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/3.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/9.php" />
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/11.php" />
@@ -146,7 +167,6 @@
         <option value="$PROJECT_DIR$/5.hw/arrays_loops_tasks/17.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/1/common_words.php" />
         <option value="$PROJECT_DIR$/6.hw/test.php" />
-        <option value="$PROJECT_DIR$/6.hw/index.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/2.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/2/func_top3_words.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/3/upload.php" />
@@ -156,6 +176,8 @@
         <option value="$PROJECT_DIR$/6.hw/test/3.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/3/func.php" />
         <option value="$PROJECT_DIR$/6.hw/functions_forms_tasks/3/index.php" />
+        <option value="$PROJECT_DIR$/6.hw/index.php" />
+        <option value="$PROJECT_DIR$/5.hw/index.php" />
       </list>
     </option>
   </component>
@@ -245,46 +267,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="6.hw" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6.hw" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functions_forms_tasks" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_learn" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6.hw" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functions_forms_tasks" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,15 +386,15 @@
       <workItem from="1474545609472" duration="22000" />
       <workItem from="1474917502382" duration="5567000" />
       <workItem from="1474954739915" duration="12000" />
-      <workItem from="1474957090201" duration="12180000" />
+      <workItem from="1474957090201" duration="13148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81555000" />
+    <option name="totallyTimeSpent" value="82523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18976545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -543,13 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.hw/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.hw/arrays_loops_tasks/6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -612,14 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.hw/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="28" column="206" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="206" />
           <folding />
         </state>
       </provider>
@@ -729,6 +696,24 @@
         <state relative-caret-position="136">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.hw/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.hw/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
