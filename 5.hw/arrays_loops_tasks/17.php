@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>17</title>
-<style>
-    .select {
-        font-weight: 800;
-    }
-</style>
+    <style>
+        .select {
+            font-weight: 800;
+        }
+    </style>
 </head>
 <?php
 /**
@@ -20,16 +20,26 @@
     месяц выведите жирным. Текущий месяц должен храниться в переменной $month.
 */
 
-$arr = array('январь', 'февраль', 'март', 'апрель', 'май', 'июнь', 'июль', 'август', 'сентябрь', 'октябрь', 'ноябрь', 'декабрь');
-
+$arr = array(
+    'январь',
+    'февраль',
+    'март',
+    'апрель',
+    'май',
+    'июнь',
+    'июль',
+    'август',
+    'сентябрь',
+    'октябрь',
+    'ноябрь',
+    'декабрь');
 $now_month = 'сентябрь';
-
 foreach ($arr as $item) {
     $p1 = '</span><br>';
     if ($item === $now_month) {
-        $p = '<span class="select">' ;
+        $p = '<span class="select">';
     }
-    else{
+    else {
         $p = '<span>';
     }
     echo $p . $item . $p1;

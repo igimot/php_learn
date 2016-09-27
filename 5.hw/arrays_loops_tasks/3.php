@@ -16,10 +16,8 @@
 // Результат запишите переменную $result.
 //http://metanit.com/web/php/2.9.php
 $array = array(26, 17, 136, 12, 79, 15);
-
-
-foreach ($array as $nub){
-    $result+= $nub * $nub;
+foreach ($array as $nub) {
+    $result += $nub * $nub;
     echo 'Квадрат числа ' . $nub . ' равен: ' . $result . '<br>';
 }
 ?>
